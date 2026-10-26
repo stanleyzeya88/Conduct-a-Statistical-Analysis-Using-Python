@@ -1,7 +1,7 @@
-# MSc Capstone Project #2: Data and Statistical Reasoning — Consumer Spending Analysis
+# Data and Statistical Reasoning — Consumer Spending Analysis
 
 **Author:** Aung Ze Ya  
-**Course:** MSc Capstone / AI Programming Foundations  
+**Course:** MSc Capstone / Conduct a Statistical Analysis Using Python  
 **Dataset:** State-Level Consumer Spending Index (`ecommerce_spending.csv`)  
 **Data Source:** Opportunity Insights Economic Tracker / Data.gov (2020–2024)
 
