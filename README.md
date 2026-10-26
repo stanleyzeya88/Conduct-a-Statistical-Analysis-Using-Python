@@ -1,9 +1,11 @@
 # Data and Statistical Reasoning — Consumer Spending Analysis
 
-**Author:** Aung Ze Ya  
+**Student Name:** Aung Ze Ya  
 **Course:** MSc Capstone / Conduct a Statistical Analysis Using Python  
 **Dataset:** State-Level Consumer Spending Index (`ecommerce_spending.csv`)  
-**Data Source:** Opportunity Insights Economic Tracker / Data.gov (2020–2024)
+**Data Source:** Opportunity Insights Economic Tracker — *Percent Change in Consumer Spending by State*  
+**Primary Source Link:** https://opportunityinsights.org/data/  
+**Underlying Data Provider:** Affinity Solutions (aggregated and anonymized credit/debit card transactions, compiled by Opportunity Insights)
 
 ---
 
